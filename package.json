@@ -1,0 +1,14 @@
+{
+  "name": "tellme",
+  "version": "1.0.0",
+  "description": "\"NodeJS Application where users share photos and get the public opinion\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chukwuebuka Beluolisa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
